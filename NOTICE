@@ -1,0 +1,14 @@
+﻿NOTICE
+
+This repository is an archival/educational redistribution of the Gun Mayhem
+Cocos2d-x remake created by Kevin Gu (original game) and the SCUT student team
+listed in CONTRIBUTORS.md.
+
+Original game: Copyright Kevin Gu.
+Remake code, art and audio: Copyright the respective team members.
+
+hhxpoint claims copyright only over the repository packaging, documentation
+and build notes added for this archive. No license is granted for the original
+code/assets beyond viewing and educational reference. If you are a rights
+holder and want attribution changed or the repository removed, please open an
+issue or contact the maintainer.

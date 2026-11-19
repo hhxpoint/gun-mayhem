@@ -1,0 +1,8 @@
+﻿build/
+dist/
+cocos2d-x-3.17.2/
+node_modules/
+*.exe
+*.zip
+*.log
+.DS_Store
